@@ -16,4 +16,4 @@ The DeCoviD project is a part of a broader strategy of competence development in
 
 ## Acknowledgments
 
-This research was partially funded by [IDUB against COVID-19](https://badawcza.pw.edu.pl/Konkursy/Wyniki-konkursow/Wyniki-konkursu-IDUB-against-COVID-19) project granted by Warsaw University of Technology under the program [Excellence Initiative: Research University (IDUB)](https://inicjatywadoskonalosci.uw.edu.pl/en/programme). 
+This research was partially funded by [IDUB against COVID-19](https://badawcza.pw.edu.pl/Konkursy/Wyniki-konkursow/Wyniki-konkursu-IDUB-against-COVID-19) project granted by Warsaw University of Technology under the program [Excellence Initiative: Research University (IDUB)](https://www.excellence.pw.edu.pl/excellence). 
